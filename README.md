@@ -1,6 +1,13 @@
 # Titles
 
 This is an API for getting rss titles from Google RSS
+
+## Usage
+
+* git clone https://github.com/husniddin96/node-rss
+* npm install
+* node app
+
 ## GetTitles
 
 ```bash
